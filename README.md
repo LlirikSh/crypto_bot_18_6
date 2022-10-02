@@ -1,6 +1,6 @@
 # crypto_bot_18_6
 
-Телеграмм-бот для конвертации валют. Имя в телеграме https://t.me/crypto_bot_18_6_bot  @crypto_bot_18_6_bot
+Телеграмм-бот для конвертации валют. Имя в телеграмме https://t.me/crypto_bot_18_6_bot  @crypto_bot_18_6_bot
 
 Курс валют брал из API https://min-api.cryptocompare.com/documentation
 
